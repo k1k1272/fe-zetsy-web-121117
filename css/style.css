@@ -51,8 +51,8 @@ img {
   border: 5px rgb(152,173,166) solid;
 }
 
-.wrapper h2 a {
-	border: 5px rgb(111,127,122) solid;
+#press img:hover {
+    border: 5px rgb(111,127,122) solid;
 }
 
 footer {

@@ -38,9 +38,6 @@ p  {
 	margin: 0 0 20px 0;
 }
 
-.small {
-	font-size: 0.8em;
-}
 
 /*////////// Section Styles //////////*/
 
@@ -49,7 +46,6 @@ h1 {
 	font-weight: bold;
 	text-decoration: none;
 }
-
 
 footer {
 	text-align: right;

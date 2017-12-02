@@ -46,13 +46,10 @@ p  {
 
 h1 {
 	color: rgb(152,173,166);
-	font: bold;
+	font-weight: bold;
 	text-decoration: none;
 }
 
-header a:hover {
-	color: rgb(111,127,122);
-}
 
 footer {
 	text-align: right;
